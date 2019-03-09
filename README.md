@@ -1,6 +1,7 @@
 ## Velocity
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/64b5dcd76fef403fb3c0eb340fba9f91)](https://www.codacy.com/app/yvln/velocity?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yvln/velocity&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/yvln/velocity.svg?branch=master)](https://travis-ci.com/yvln/velocity)
 
 Simple velocity app written in TypeScript, and styled with styled-component and d3.
 
